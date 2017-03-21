@@ -87,10 +87,10 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="theme_accent">#8BC34A</color>
     <color name="theme_accent_alternate">#FFFF8D</color>
     <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
+    <color name="theme_primary_dark">#388E3C</color>
     <color name="white">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             

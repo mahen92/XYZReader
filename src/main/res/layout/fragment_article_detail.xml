@@ -101,7 +101,7 @@
         android:fillViewport="true"
         android:paddingLeft="@dimen/detail_inner_horizontal_margin"
         android:paddingRight="@dimen/detail_inner_horizontal_margin"
-        android:background="?attr/colorPrimary"
+        android:background="@color/theme_primary"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <LinearLayout
@@ -127,7 +127,7 @@
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="22dp"
                     android:fontFamily="sans-serif"
-                    android:background="?attr/colorPrimary"
+                    android:background="@color/theme_primary"
                     android:paddingTop="@dimen/detail_metabar_vertical_padding"
                     android:paddingBottom="@dimen/margin"
                     android:textColor="@color/white"
@@ -149,7 +149,7 @@
         style="@style/share_fab"
         app:fabSize="normal"
         app:layout_anchor="@id/scrollview"
-        app:rippleColor="@color/lime"
+        app:rippleColor="@color/theme_accent"
         app:layout_anchorGravity="bottom|end" />
 
 </android.support.design.widget.CoordinatorLayout>
