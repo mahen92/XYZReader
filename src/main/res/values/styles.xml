@@ -36,6 +36,10 @@
         <item name="android:layout_margin">@dimen/fab_margin</item>
         <item name="android:contentDescription">@string/action_share</item>
         <item name="android:src">@drawable/ic_share</item>
-    </style>
 
+    </style>
+     <style name="AppTheme.Home">
+         <item name="android:windowExitTransition">@transition/grid_exit</item>
+
+     </style>
 </resources>

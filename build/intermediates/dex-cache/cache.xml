@@ -3,208 +3,100 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Mahendran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jar="C:\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c749b251323cc28f11b8904ea5a9490d151a8af2\classes.dex" />
+        revision="25.0.2"
+        sha1="0d380a6859654ed92c7bc6ae4c019d3b3262c40b">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7f69edd2641b9086314e980208ce89ec5d2765bd\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_b1b264f26ed4870a772a296868cf17421222622d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_053b6298c8c43b1b3b1ccc9b7c77f54bdcfa49da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_d621850fcb9595c66c9bf07e69f8f0fe01146269\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b69edcbaa87b6d57617377e5cf00be80dbed500e">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7f69edd2641b9086314e980208ce89ec5d2765bd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_41fae9d1e8c7e1ea8a8a33165c245e38d1e7e2fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_da3554ca72519e5697088b16a7625d78e471326b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_4dc188ebcf7e7ab087e983ddcfc748eed53523a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7efb6b494de99d16691d0067f39d4944d82b9079\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_bcd1cec73995557f00c281ffc14ae8f68ddb8010\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d7d2a17871c68ff9ba4525437fe527d9611d8279\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_747997ea9b17d77d4431b9ad332cd20b382d7806\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_ca92178a6ec303eac621b4b7af9b0b18c0273967\classes.dex" />
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_d621850fcb9595c66c9bf07e69f8f0fe01146269\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_30a19137613ca8b80f98bfbba445ce340cc33e18\classes.dex" />
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_bcd1cec73995557f00c281ffc14ae8f68ddb8010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_ff5f90ec249e2f5b5b264679138c6d42df989624\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_cbe99ec65f37dde358b8b449a2901ddaa3c9c726\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Mahendran\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_cc60ec952cf4f4c44782534ac78ee4d0e04cea5a\classes.dex" />
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_053b6298c8c43b1b3b1ccc9b7c77f54bdcfa49da\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jar="C:\Users\Mahendran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_a2af694cc8666bb5a5b4db9535429b43f8850a86\classes.dex" />
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c749b251323cc28f11b8904ea5a9490d151a8af2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.0.0_13b2bde3ea08abbf583b7f09961bd7cd28d69334\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_82e0c5b154ee0693a6abb00e5f66c37a89df2a7a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\libs\volley.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_8cb0072b70bb1fd4a53213a1fd5cb7ab88c529b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_25d8d235e03262acfcf2c7eda30e06b406f21abf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="976ad685d9af0706f01bb77e42d93c28d2d2deba">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ef6daf71c3e39223c159fed31f471f07d45b3be\classes.dex" />
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_e882223aca6ce44d7e810447240f5bdaff2c2aef\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\Users\Mahendran\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_1f5b4f638a8f1b0546cf9855bcd7865c80606118\classes.dex" />
     </item>
@@ -213,36 +105,144 @@
         jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="8a372c4191f80489770a231f7be4820b204b886a">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_9389ec75300c36bca5e598b597b0abf629b80f2e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jar="C:\XYZReader\libs\volley.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_e882223aca6ce44d7e810447240f5bdaff2c2aef\classes.dex" />
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_8cb0072b70bb1fd4a53213a1fd5cb7ab88c529b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_82e0c5b154ee0693a6abb00e5f66c37a89df2a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8b0e77d1306f56a85b5107d9be3d6f8721822d3">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ef6daf71c3e39223c159fed31f471f07d45b3be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_4dc188ebcf7e7ab087e983ddcfc748eed53523a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d7d2a17871c68ff9ba4525437fe527d9611d8279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_ca92178a6ec303eac621b4b7af9b0b18c0273967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_41fae9d1e8c7e1ea8a8a33165c245e38d1e7e2fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahendran\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_cc60ec952cf4f4c44782534ac78ee4d0e04cea5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_25d8d235e03262acfcf2c7eda30e06b406f21abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_da3554ca72519e5697088b16a7625d78e471326b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.0.0_13b2bde3ea08abbf583b7f09961bd7cd28d69334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_a2af694cc8666bb5a5b4db9535429b43f8850a86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7efb6b494de99d16691d0067f39d4944d82b9079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_30a19137613ca8b80f98bfbba445ce340cc33e18\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
+        revision="25.0.2"
         sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
         <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a79dd84346cd0760e1aa0d4bb0b0859695353e6e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_ff5f90ec249e2f5b5b264679138c6d42df989624\classes.dex" />
     </item>
 
 </items>
