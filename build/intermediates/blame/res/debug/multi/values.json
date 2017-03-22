@@ -1098,14 +1098,7 @@
                     "endOffset": 6084
                 },
                 "from": {
-                    "file": "C:\\XYZReader\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 806,
-                        "endColumn": 52,
-                        "endOffset": 854
-                    }
+                    "file": "C:\\XYZReader\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {

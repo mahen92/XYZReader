@@ -37,7 +37,7 @@
             android:paddingRight="@dimen/padding"
             android:paddingTop="@dimen/padding"
             android:textColor="@color/white"
-            android:background="?attr/colorPrimary"
+            android:background="@color/theme_primary"
             android:textSize="@dimen/text"/>
 
         <TextView
@@ -52,7 +52,7 @@
             android:paddingLeft="@dimen/padding"
             android:paddingRight="@dimen/padding"
             android:textColor="@color/white"
-            android:background="?attr/colorPrimary"
+            android:background="@color/theme_primary"
             android:textSize="@dimen/list_item_article" />
 
     </LinearLayout>
