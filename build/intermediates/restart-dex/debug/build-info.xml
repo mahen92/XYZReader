@@ -5,9 +5,9 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="14946890844953"
+    timestamp="20870182076695"
     token="-687383559432670729"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,23 +23,9 @@
         duration="0" />
 
     <artifact
-        location="C:\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="13738559435983"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="14645847473498"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
     <build
         timestamp="50339396363684"
         verifier="FULL_BUILD_REQUESTED" >
